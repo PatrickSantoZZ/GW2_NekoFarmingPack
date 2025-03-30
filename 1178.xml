@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<OverlayData>
+	<MarkerCategory Name="neko" DisplayName="NekoNeko (MEOW) FarmingPack">
+		<MarkerCategory Name="farm" DisplayName="Farming">
+			<MarkerCategory Name="lws3_bf" DisplayName="Bitterfrost Frontier (Chests Repeatable)">
+			 	<MarkerCategory name="ibc_mk" DisplayName="Marker" iconSize="1.5" heightOffset="0" FadeNear="3250" FadeFar="3500" iconFile="Data/chest.png"/>
+				<MarkerCategory	name="ibc_trl" DisplayName="Trail (kitten)" DefaultDisabled="true" texture="Data/trail_kitten.png"/>
+				<MarkerCategory	name="ibc_trl2" DisplayName="Trail (normal)" texture="Data/trail_normal.png"/>
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+	<POIs>
+		<POI MapID="1178" xpos="-550.208" ypos="2.59968" zpos="-341.905" type="neko.farm.lws3_bf.ibc_mk" GUID="Ym1a3FNi+0OsCBsZ5ZLaIQ=="/>
+		<POI MapID="1178" xpos="-516.49" ypos="16.5131" zpos="-334.256" type="neko.farm.lws3_bf.ibc_mk" GUID="af8heT8S+UmMoRcVFWQvEw=="/>
+		<POI MapID="1178" xpos="-544.323" ypos="0.968969" zpos="-292.827" type="neko.farm.lws3_bf.ibc_mk" GUID="uW7cmflyO0SZesZmSmvmRw=="/>
+		<POI MapID="1178" xpos="-582.779" ypos="1.99878" zpos="-288.228" type="neko.farm.lws3_bf.ibc_mk" GUID="1iAHb0GbCUKSaVuTBo2ANQ=="/>
+		<POI MapID="1178" xpos="-520.948" ypos="2.09024" zpos="-242.019" type="neko.farm.lws3_bf.ibc_mk" GUID="7tD3OvjZNUew2o+L8zTGSw=="/>
+		<POI MapID="1178" xpos="-480.36" ypos="0.796983" zpos="-184.578" type="neko.farm.lws3_bf.ibc_mk" GUID="9/0BBX2i4E6hlNYxiA3RFQ=="/>
+		<POI MapID="1178" xpos="-558.075" ypos="1.30839" zpos="-148.768" type="neko.farm.lws3_bf.ibc_mk" GUID="aAgtP6asbES9Q9L1k4REEQ=="/>
+		<POI MapID="1178" xpos="-525.534" ypos="11.6004" zpos="-200.186" type="neko.farm.lws3_bf.ibc_mk" GUID="+TV5keuBXkGtjN8sT04tMw=="/>
+		<POI MapID="1178" xpos="-599.142" ypos="1.6459" zpos="-220.121" type="neko.farm.lws3_bf.ibc_mk" GUID="Nfick76D4k+dGCCRuh7HLQ=="/>
+		<POI MapID="1178" xpos="-667.535" ypos="1.55648" zpos="-217.952" type="neko.farm.lws3_bf.ibc_mk" GUID="0MqBo3qTfEKJ/XK5r0pNVQ=="/>
+		<POI MapID="1178" xpos="-738.297" ypos="1.65394" zpos="-334.764" type="neko.farm.lws3_bf.ibc_mk" GUID="HHLqnc4yRESIVhXBRmAJ+Q=="/>
+		<POI MapID="1178" xpos="-744.077" ypos="1.6983" zpos="-171.861" type="neko.farm.lws3_bf.ibc_mk" GUID="3FF9zk4SHU28DARmngFs4w=="/>
+		<POI MapID="1178" xpos="-617.825" ypos="2.39926" zpos="-139.999" type="neko.farm.lws3_bf.ibc_mk" GUID="ZdwAAVVlnkqyJoPKLF0Q2w=="/>
+		<POI MapID="1178" xpos="-641.2" ypos="1.38862" zpos="-100.776" type="neko.farm.lws3_bf.ibc_mk" GUID="YoaE5zZg+UWPHX3UbXfSyQ=="/>
+		<POI MapID="1178" xpos="-618.89" ypos="2.3302" zpos="-54.4626" type="neko.farm.lws3_bf.ibc_mk" GUID="nBHrgwweAUCog7VI4cVaYA=="/>
+		<POI MapID="1178" xpos="-481.254" ypos="2.91844" zpos="-98.2233" type="neko.farm.lws3_bf.ibc_mk" GUID="yMDwKATmCEaQrOOrHcSI3w=="/>
+		<POI MapID="1178" xpos="-370.441" ypos="28.4671" zpos="-7.53692" type="neko.farm.lws3_bf.ibc_mk" GUID="PHrR/EsXaUKSwbuDFxTUgA=="/>
+		<POI MapID="1178" xpos="-353.219" ypos="35.7233" zpos="58.911" type="neko.farm.lws3_bf.ibc_mk" GUID="rpv7m8ppFEiIPgs+fgvXKw=="/>
+		<POI MapID="1178" xpos="-265.782" ypos="2.78045" zpos="27.8892" type="neko.farm.lws3_bf.ibc_mk" GUID="BGaJKfcHo0K9sFp1xEFgZA=="/>
+		<POI MapID="1178" xpos="-217.505" ypos="1.92335" zpos="2.48095" type="neko.farm.lws3_bf.ibc_mk" GUID="EoM9/TngiEO2AB7vQCdxrw=="/>
+		<POI MapID="1178" xpos="-292.224" ypos="2.05798" zpos="-54.2093" type="neko.farm.lws3_bf.ibc_mk" GUID="lv9XKpLdQUW4DjG1YAFsbw=="/>
+		<POI MapID="1178" xpos="-256.6" ypos="2.48233" zpos="-111.561" type="neko.farm.lws3_bf.ibc_mk" GUID="41vsDUs0aUenLZCHwTfmXQ=="/>
+		<POI MapID="1178" xpos="-145.567" ypos="1.96209" zpos="-129.338" type="neko.farm.lws3_bf.ibc_mk" GUID="N99B7FQCEk2H+wDHNiLZQg=="/>
+		<POI MapID="1178" xpos="-117.416" ypos="1.96418" zpos="-170.681" type="neko.farm.lws3_bf.ibc_mk" GUID="oZOSaH0Rv0uZmeDRSqoL9A=="/>
+		<POI MapID="1178" xpos="-91.2368" ypos="1.86582" zpos="-129.115" type="neko.farm.lws3_bf.ibc_mk" GUID="b87Sss6oK0WvYno+/SarGA=="/>
+		<POI MapID="1178" xpos="-134.146" ypos="2.58352" zpos="-54.938" type="neko.farm.lws3_bf.ibc_mk" GUID="Ae0qMqgdsEmuvmVExhrMSg=="/>
+		<POI MapID="1178" xpos="-117.467" ypos="2.80451" zpos="-0.782364" type="neko.farm.lws3_bf.ibc_mk" GUID="l4kyvEiLLU+cryt7ZR0GDA=="/>
+		<POI MapID="1178" xpos="-179.361" ypos="1.70695" zpos="39.3558" type="neko.farm.lws3_bf.ibc_mk" GUID="9UAPHbIEEk+2OhSwc03p3A=="/>
+		<POI MapID="1178" xpos="-145.678" ypos="2.14635" zpos="78.6036" type="neko.farm.lws3_bf.ibc_mk" GUID="zUcKjJgHMUu3mvsrQrkpMg=="/>
+		<POI MapID="1178" xpos="-75.3042" ypos="1.9605" zpos="100.696" type="neko.farm.lws3_bf.ibc_mk" GUID="QXKEjNRSUk+BOg1kZsBxyg=="/>
+		<POI MapID="1178" xpos="-29.0958" ypos="2.45438" zpos="51.4213" type="neko.farm.lws3_bf.ibc_mk" GUID="/EwacXm86UCBLcZ8g6KmBQ=="/>
+		<POI MapID="1178" xpos="37.4687" ypos="1.90199" zpos="-5.15987" type="neko.farm.lws3_bf.ibc_mk" GUID="6B2kjOBeIEet9MCxkF98Ew=="/>
+		<POI MapID="1178" xpos="31.9527" ypos="2.02704" zpos="-45.5806" type="neko.farm.lws3_bf.ibc_mk" GUID="vxSAcMYi5ka/04Z1OwiLIw=="/>
+		<POI MapID="1178" xpos="122.128" ypos="2.86301" zpos="-16.7019" type="neko.farm.lws3_bf.ibc_mk" GUID="CGfHE3SZKUa38SxVf7Fdbw=="/>
+		<POI MapID="1178" xpos="186.962" ypos="1.72303" zpos="-43.2489" type="neko.farm.lws3_bf.ibc_mk" GUID="LocEKo6OVUipkn5ovcRD7g=="/>
+		<POI MapID="1178" xpos="179.524" ypos="2.36141" zpos="12.4431" type="neko.farm.lws3_bf.ibc_mk" GUID="ceyzsRcPA062ta+gTnKI+g=="/>
+		<POI MapID="1178" xpos="243.526" ypos="3.85717" zpos="-53.909" type="neko.farm.lws3_bf.ibc_mk" GUID="xUp5JR8VqUGdm1baNffXAA=="/>
+		<POI MapID="1178" xpos="287.315" ypos="2.87635" zpos="-75.167" type="neko.farm.lws3_bf.ibc_mk" GUID="DF7VOMtzwEmMG1x4WS5Mhw=="/>
+		<POI MapID="1178" xpos="264.884" ypos="4.12988" zpos="-152.411" type="neko.farm.lws3_bf.ibc_mk" GUID="8VhN4hBOGUSZDFrHsDdpBA=="/>
+		<POI MapID="1178" xpos="217.973" ypos="11.5222" zpos="-248.478" type="neko.farm.lws3_bf.ibc_mk" GUID="6RfGlvA++km5Nba/eGt+7A=="/>
+		<POI MapID="1178" xpos="179.447" ypos="2.79574" zpos="-205.948" type="neko.farm.lws3_bf.ibc_mk" GUID="0KZ49Ka/50OdaXb8L0lkZw=="/>
+		<POI MapID="1178" xpos="174.445" ypos="1.25206" zpos="-174.894" type="neko.farm.lws3_bf.ibc_mk" GUID="50wXQf2cfkqd3ZCPJwjq1Q=="/>
+		<POI MapID="1178" xpos="200.715" ypos="0.966961" zpos="-140.698" type="neko.farm.lws3_bf.ibc_mk" GUID="TvqSgFd0Ikyvv91uDHTuwg=="/>
+		<POI MapID="1178" xpos="191.901" ypos="1.31129" zpos="-91.3198" type="neko.farm.lws3_bf.ibc_mk" GUID="4w6QmZq/W0aZhghGadHWHA=="/>
+		<POI MapID="1178" xpos="162.64" ypos="3.51045" zpos="-126.937" type="neko.farm.lws3_bf.ibc_mk" GUID="hnUc7OOAu0WDcB78OYbLXw=="/>
+		<POI MapID="1178" xpos="119.429" ypos="1.74563" zpos="-156.013" type="neko.farm.lws3_bf.ibc_mk" GUID="SmfSl1erFka2ky2NvttnSA=="/>
+		<POI MapID="1178" xpos="75.5764" ypos="2.1824" zpos="-153.75" type="neko.farm.lws3_bf.ibc_mk" GUID="SN29D4Gw0UKUjEJ+fhmxmw=="/>
+		<POI MapID="1178" xpos="80.2223" ypos="1.1048" zpos="-182.357" type="neko.farm.lws3_bf.ibc_mk" GUID="+dMIjlMoA0SFiYNOsBpjsA=="/>
+		<POI MapID="1178" xpos="96.1702" ypos="1.9135" zpos="-237.314" type="neko.farm.lws3_bf.ibc_mk" GUID="OM44JrKs10Ge1K4uTeK8KA=="/>
+		<POI MapID="1178" xpos="50.6991" ypos="1.76888" zpos="-261.027" type="neko.farm.lws3_bf.ibc_mk" GUID="udf9TGjpRE6Gjj1KCPYo3w=="/>
+		<POI MapID="1178" xpos="11.2852" ypos="1.81405" zpos="-208.792" type="neko.farm.lws3_bf.ibc_mk" GUID="Jewz88fWcEablBjDd/j1Kg=="/>
+		<POI MapID="1178" xpos="-23.5824" ypos="2.06091" zpos="-176.23" type="neko.farm.lws3_bf.ibc_mk" GUID="z3F8uz8SlECKEnViDMO6KQ=="/>
+		<POI MapID="1178" xpos="-52.6291" ypos="2.51663" zpos="-227.801" type="neko.farm.lws3_bf.ibc_mk" GUID="0EpJ/MEUYU+oycSTM9vwIQ=="/>
+		<POI MapID="1178" xpos="-6.8824" ypos="2.58673" zpos="-270.687" type="neko.farm.lws3_bf.ibc_mk" GUID="bNZWGkmga0iCKrbU5HHKHw=="/>
+		<POI MapID="1178" xpos="2.93275" ypos="3.91989" zpos="-315.18" type="neko.farm.lws3_bf.ibc_mk" GUID="oGiPUEw36E2kcevDJbmLlQ=="/>
+		<POI MapID="1178" xpos="295.564" ypos="2.02111" zpos="-10.7528" type="neko.farm.lws3_bf.ibc_mk" GUID="dbt3zc6Ct0Cg2sAXa2dZeQ=="/>
+		<POI MapID="1178" xpos="342.033" ypos="2.4173" zpos="-21.2053" type="neko.farm.lws3_bf.ibc_mk" GUID="ASBNX3fy8U6a2Dc8145JCQ=="/>
+		<POI MapID="1178" xpos="400.472" ypos="2.30665" zpos="-0.350326" type="neko.farm.lws3_bf.ibc_mk" GUID="dO6q4+M89kiE6Cigr2xsKA=="/>
+		<POI MapID="1178" xpos="327.598" ypos="1.52315" zpos="43.6719" type="neko.farm.lws3_bf.ibc_mk" GUID="u6Rl1qkrek+rXNWbe6WrWA=="/>
+		<POI MapID="1178" xpos="346.342" ypos="1.99992" zpos="58.5584" type="neko.farm.lws3_bf.ibc_mk" GUID="yp82lg2fU0aEh/2uJXV1Dw=="/>
+		<POI MapID="1178" xpos="298.047" ypos="2.84339" zpos="91.6654" type="neko.farm.lws3_bf.ibc_mk" GUID="abiPQba7bUOQnjshJ6CgUQ=="/>
+		<POI MapID="1178" xpos="249.01" ypos="6.38537" zpos="97.6971" type="neko.farm.lws3_bf.ibc_mk" GUID="d7XV9chhakKx7T+rspi6Yg=="/>
+		<POI MapID="1178" xpos="400.682" ypos="13.2559" zpos="106.528" type="neko.farm.lws3_bf.ibc_mk" GUID="LGo2Xtz6GEKv45Z9LnWZMw=="/>
+		<POI MapID="1178" xpos="477.189" ypos="13.8282" zpos="78.4478" type="neko.farm.lws3_bf.ibc_mk" GUID="eFcgbREKj0exJbW3mCfPSw=="/>
+		<POI MapID="1178" xpos="542.492" ypos="2.43666" zpos="-8.99406" type="neko.farm.lws3_bf.ibc_mk" GUID="2Y9D9UI9Ckqp+YYroycEHA=="/>
+		<POI MapID="1178" xpos="527.482" ypos="1.75235" zpos="32.031" type="neko.farm.lws3_bf.ibc_mk" GUID="jX09Oara7UOIwsHq3ww00Q=="/>
+		<POI MapID="1178" xpos="466.586" ypos="1.72679" zpos="34.2105" type="neko.farm.lws3_bf.ibc_mk" GUID="ObCHzXVdykykqJnvViFLbQ=="/>
+		<POI MapID="1178" xpos="452.772" ypos="3.87607" zpos="75.3755" type="neko.farm.lws3_bf.ibc_mk" GUID="BX116/yDtkeLtP/5IvzakA=="/>
+		<POI MapID="1178" xpos="411.387" ypos="2.67749" zpos="88.9942" type="neko.farm.lws3_bf.ibc_mk" GUID="jAgjYfQCjEy8NEn8e2IiYw=="/>
+		<Trail type="neko.farm.lws3_bf.ibc_trl" GUID="ACASM+7HqUC84DnoPsSYdg==" fadeNear="5000" fadeFar="5100" animSpeed="1" trailData="Data/bitterfrost_frontier_ibc.trl"/>
+		<Trail type="neko.farm.lws3_bf.ibc_trl2" GUID="h3Qp3VasREiv/yMLg65TGw==" fadeNear="5000" fadeFar="5100" animSpeed="1" trailData="Data/bitterfrost_frontier_ibc.trl"/>
+	</POIs>
+</OverlayData>
